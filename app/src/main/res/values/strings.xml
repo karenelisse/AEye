@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A.Eye</string>
+    <string name="label_image_name">Image Name</string>
+    <string name="label_has_ker">Has Kerataconus</string>
+    <string name="show">Show</string>
+    <string name="empty">EMPTY</string>
+</resources>
